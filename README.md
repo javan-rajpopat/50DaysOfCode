@@ -15,3 +15,15 @@ Given a string, find the length of the longest substring without repeating chara
 **Problem Number:** 3
 
 **Link:** https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+## Day 2
+
+Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 16
+
+**Link:** https://leetcode.com/problems/3sum-closest/
