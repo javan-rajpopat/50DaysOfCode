@@ -27,3 +27,16 @@ Given an array nums of n integers and an integer target, find three integers in 
 **Problem Number:** 16
 
 **Link:** https://leetcode.com/problems/3sum-closest/
+
+## Day 3
+
+Now, given a list of words, each word can be written as a concatenation of the Morse code of each letter. Return the number of different transformations among all words we have.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 804
+
+**Link:** https://leetcode.com/problems/unique-morse-code-words/
+
