@@ -52,3 +52,15 @@ In a given integer array nums, there is always exactly one largest element.Find 
 
 **Link:** https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 
+## Day 5
+
+Given a non-empty integer array, find the minimum number of moves required to make all array elements equal, where a move is incrementing a selected element by 1 or decrementing a selected element by 1. You may assume the array's length is at most 10,000.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 462
+
+**Link:** https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
+
