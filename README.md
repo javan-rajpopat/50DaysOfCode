@@ -64,3 +64,15 @@ Given a non-empty integer array, find the minimum number of moves required to ma
 
 **Link:** https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 
+## Day 6
+
+Given a sorted array nums, remove the duplicates in-place such that duplicates appeared at most twice and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 80
+
+**Link:** https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+
