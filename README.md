@@ -76,3 +76,15 @@ Given a sorted array nums, remove the duplicates in-place such that duplicates a
 
 **Link:** https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 
+## Day 7
+
+Given a string S that only contains "I" (increase) or "D" (decrease), let N = S.length. Return any permutation A of [0, 1, ..., N] such that for all i = 0, ..., N-1, such that, if S[i] == "I", then A[i] < A[i+1] and if S[i] == "D", then A[i] > A[i+1].
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 942
+
+**Link:** https://leetcode.com/problems/di-string-match/
+
