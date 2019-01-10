@@ -102,3 +102,15 @@ At the end, the "skyline" when viewed from all four directions of the grid, i.e.
 
 **Link:** https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 
+## Day 9
+
+You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 771
+
+**Link:** https://leetcode.com/problems/jewels-and-stones/
+
