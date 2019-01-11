@@ -114,3 +114,15 @@ You're given strings J representing the types of stones that are jewels, and S r
 
 **Link:** https://leetcode.com/problems/jewels-and-stones/
 
+## Day 10
+
+Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 938
+
+**Link:** https://leetcode.com/problems/range-sum-of-bst/
+
