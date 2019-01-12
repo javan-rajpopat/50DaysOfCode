@@ -126,3 +126,15 @@ Given the root node of a binary search tree, return the sum of values of all nod
 
 **Link:** https://leetcode.com/problems/range-sum-of-bst/
 
+## Day 11
+
+Given two strings representing two complex numbers. You need to return a string representing their multiplication.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 537
+
+**Link:** https://leetcode.com/problems/complex-number-multiplication/
+
