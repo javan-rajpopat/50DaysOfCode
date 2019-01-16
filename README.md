@@ -186,3 +186,15 @@ S and T are strings composed of lowercase letters. In S, no letter occurs more t
 
 **Link:** https://leetcode.com/problems/custom-sort-string/
 
+## Day 16
+
+Given a linked list, swap every two adjacent nodes and return its head.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 24
+
+**Link:** https://leetcode.com/problems/swap-nodes-in-pairs/
+
