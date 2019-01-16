@@ -174,3 +174,15 @@ You are given two non-empty linked lists representing two non-negative integers.
 
 **Link:** https://leetcode.com/problems/add-two-numbers/
 
+## Day 15
+
+S and T are strings composed of lowercase letters. In S, no letter occurs more than once.S was sorted in some custom order previously. We want to permute the characters of T so that they match the order that S was sorted. More specifically, if x occurs before y in S, then x should occur before y in the returned string.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 791
+
+**Link:** https://leetcode.com/problems/custom-sort-string/
+
