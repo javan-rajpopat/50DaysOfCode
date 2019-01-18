@@ -220,5 +220,5 @@ Given a linked list, remove the n-th node from the end of list and return its he
 
 **Problem Number:** 19
 
-**Link:** https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+**Link:** https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
