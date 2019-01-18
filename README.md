@@ -210,3 +210,25 @@ Given a sorted array nums, remove the duplicates in-place such that each element
 
 **Link:** https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
+## Day 18
+
+Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 26
+
+**Link:** ## Day 17
+
+Given a linked list, remove the n-th node from the end of list and return its head.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 19
+
+**Link:** https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
