@@ -224,7 +224,7 @@ Given a linked list, remove the n-th node from the end of list and return its he
 
 ## Day 19
 
-Implement pow(x, n), which calculates x raised to the power n (xn).
+Implement pow(x, n), which calculates x raised to the power n (x^n).
 
 **From:** LeetCode
 
