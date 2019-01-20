@@ -222,3 +222,15 @@ Given a linked list, remove the n-th node from the end of list and return its he
 
 **Link:** https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
+## Day 19
+
+Implement pow(x, n), which calculates x raised to the power n (xn).
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 50
+
+**Link:** https://leetcode.com/problems/powx-n/
+
