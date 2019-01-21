@@ -246,3 +246,15 @@ Determine if a 9x9 Sudoku board is valid. A Sudoku board (partially filled) coul
 
 **Link:** https://leetcode.com/problems/valid-sudoku/
 
+## Day 21
+
+Given a 32-bit signed integer, reverse digits of an integer.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 7
+
+**Link:** https://leetcode.com/problems/reverse-integer/
+
