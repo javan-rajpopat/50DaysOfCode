@@ -234,3 +234,15 @@ Implement pow(x, n), which calculates x raised to the power n (x^n).
 
 **Link:** https://leetcode.com/problems/powx-n/
 
+## Day 20
+
+Determine if a 9x9 Sudoku board is valid. A Sudoku board (partially filled) could be valid but is not necessarily solvable.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 36
+
+**Link:** https://leetcode.com/problems/valid-sudoku/
+
