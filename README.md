@@ -258,3 +258,15 @@ Given a 32-bit signed integer, reverse digits of an integer.
 
 **Link:** https://leetcode.com/problems/reverse-integer/
 
+## Day 22
+
+Given an unsorted integer array, find the smallest missing positive integer in O(n) time.
+
+**From:** LeetCode
+
+**Difficulty:** Hard
+
+**Problem Number:** 41
+
+**Link:** https://leetcode.com/problems/first-missing-positive/
+
