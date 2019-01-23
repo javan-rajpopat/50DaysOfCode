@@ -270,3 +270,15 @@ Given an unsorted integer array, find the smallest missing positive integer in O
 
 **Link:** https://leetcode.com/problems/first-missing-positive/
 
+## Day 23
+
+Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once. Find all the elements that appear twice in this array.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 442
+
+**Link:** https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
