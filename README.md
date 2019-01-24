@@ -282,3 +282,15 @@ Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements 
 
 **Link:** https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
+## Day 24
+
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 1
+
+**Link:** https://leetcode.com/problems/two-sum/
+
