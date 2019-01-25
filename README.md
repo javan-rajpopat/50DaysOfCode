@@ -294,3 +294,15 @@ Given an array of integers, return indices of the two numbers such that they add
 
 **Link:** https://leetcode.com/problems/two-sum/
 
+## Day 25
+
+Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 66
+
+**Link:** hhttps://leetcode.com/problems/plus-one/
+
