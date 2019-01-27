@@ -304,5 +304,17 @@ Given a non-empty array of digits representing a non-negative integer, plus one 
 
 **Problem Number:** 66
 
-**Link:** hhttps://leetcode.com/problems/plus-one/
+**Link:** https://leetcode.com/problems/plus-one/
+
+## Day 26
+
+Given the coordinates of four points in 2D space, return whether the four points could construct a square.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 593
+
+**Link:** https://leetcode.com/problems/valid-square/
 
