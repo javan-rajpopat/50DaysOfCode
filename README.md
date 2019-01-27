@@ -318,3 +318,15 @@ Given the coordinates of four points in 2D space, return whether the four points
 
 **Link:** https://leetcode.com/problems/valid-square/
 
+## Day 27
+
+Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 844
+
+**Link:** https://leetcode.com/problems/backspace-string-compare/
+
