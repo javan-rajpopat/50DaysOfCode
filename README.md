@@ -354,5 +354,29 @@ Given the root node of a binary search tree (BST) and a value to be inserted int
 
 **Link:** https://leetcode.com/problems/insert-into-a-binary-search-tree/
 
+## Day 30
+
+Given a string S and a character C, return an array of integers representing the shortest distance from the character C in the string.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 821
+
+**Link:** https://leetcode.com/problems/shortest-distance-to-a-character/
+
+## Day 31
+
+We have a string S of lowercase letters, and an integer array shifts. Call the shift of a letter, the next letter in the alphabet, (wrapping around so that 'z' becomes 'a'). Now for each shifts[i] = x, we want to shift the first i+1 letters of S, x times.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 848
+
+**Link:** https://leetcode.com/problems/shifting-letters/
+
 
 
