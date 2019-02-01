@@ -330,3 +330,29 @@ Given two strings S and T, return if they are equal when both are typed into emp
 
 **Link:** https://leetcode.com/problems/backspace-string-compare/
 
+## Day 28
+
+You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 606
+
+**Link:** https://leetcode.com/problems/construct-string-from-binary-tree/
+
+## Day 29
+
+Given the root node of a binary search tree (BST) and a value to be inserted into the tree, insert the value into the BST. 
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 701
+
+**Link:** https://leetcode.com/problems/insert-into-a-binary-search-tree/
+
+
+
