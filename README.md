@@ -378,5 +378,19 @@ We have a string S of lowercase letters, and an integer array shifts. Call the s
 
 **Link:** https://leetcode.com/problems/shifting-letters/
 
+## Day 32
+
+Design a data structure that supports the following two operations:
+  1) void addNum(int num) - Add a integer number from the data stream to the data structure.
+  2) double findMedian() - Return the median of all elements so far.
+
+**From:** LeetCode
+
+**Difficulty:** Hard
+
+**Problem Number:** 295
+
+**Link:** https://leetcode.com/problems/find-median-from-data-stream/
+
 
 
