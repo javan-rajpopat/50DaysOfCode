@@ -392,5 +392,19 @@ Design a data structure that supports the following two operations:
 
 **Link:** https://leetcode.com/problems/find-median-from-data-stream/
 
+## Day 33
+
+Write an efficient algorithm that searches for a value in an m x n matrix. This matrix has the following properties:
+  1) Integers in each row are sorted in ascending from left to right.
+  2) Integers in each column are sorted in ascending from top to bottom.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 240
+
+**Link:** https://leetcode.com/problems/search-a-2d-matrix-ii/
+
 
 
