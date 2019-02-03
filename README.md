@@ -408,7 +408,7 @@ Write an efficient algorithm that searches for a value in an m x n matrix. This 
 
 ## Day 34
 
-Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. You are given a target value to search. If found in the array return its index, otherwise return -1.
+Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. You are given a target value to search. If found in the array return its index, otherwise return -1, in O(log n)
 
 **From:** LeetCode
 
