@@ -406,5 +406,17 @@ Write an efficient algorithm that searches for a value in an m x n matrix. This 
 
 **Link:** https://leetcode.com/problems/search-a-2d-matrix-ii/
 
+## Day 34
+
+Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. You are given a target value to search. If found in the array return its index, otherwise return -1.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 33
+
+**Link:** https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
 
 
