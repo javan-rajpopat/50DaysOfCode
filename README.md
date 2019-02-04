@@ -418,5 +418,17 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 
 **Link:** https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
+## Day 35
+
+Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.You are given a target value to search. If found in the array return true, otherwise return false, in O(log n).
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 81
+
+**Link:** https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+
 
 
