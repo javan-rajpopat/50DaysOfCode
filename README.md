@@ -430,5 +430,17 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 
 **Link:** https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 
+## Day 36
+
+Given a non-negative index k, return the kth index row of the Pascal's triangle.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 119
+
+**Link:** https://leetcode.com/problems/pascals-triangle-ii/
+
 
 
