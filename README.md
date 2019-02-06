@@ -442,5 +442,17 @@ Given a non-negative index k, return the kth index row of the Pascal's triangle.
 
 **Link:** https://leetcode.com/problems/pascals-triangle-ii/
 
+## Day 37
+
+Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 118
+
+**Link:** https://leetcode.com/problems/pascals-triangle/
+
 
 
