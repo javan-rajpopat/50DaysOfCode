@@ -454,5 +454,17 @@ Given a non-negative integer numRows, generate the first numRows of Pascal's tri
 
 **Link:** https://leetcode.com/problems/pascals-triangle/
 
+## Day 38
+
+Given an integer, write a function to determine if it is a power of two.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 231
+
+**Link:** https://leetcode.com/problems/power-of-two/
+
 
 
