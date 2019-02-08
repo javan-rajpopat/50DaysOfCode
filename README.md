@@ -466,5 +466,17 @@ Given an integer, write a function to determine if it is a power of two.
 
 **Link:** https://leetcode.com/problems/power-of-two/
 
+## Day 39
+
+Given a singly linked list L: L0→L1→…→Ln-1→Ln,reorder it to: L0→Ln→L1→Ln-1→L2→Ln-2→…
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 143
+
+**Link:** https://leetcode.com/problems/reorder-list/
+
 
 
