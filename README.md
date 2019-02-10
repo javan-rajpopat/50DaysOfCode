@@ -478,7 +478,7 @@ Given a singly linked list L: L0→L1→…→Ln-1→Ln,reorder it to: L0→Ln�
 
 **Link:** https://leetcode.com/problems/reorder-list/
 
-## Day 39
+## Day 40
 
 Given an input string, reverse the string word by word (Input string may contain leading or trailing spaces. However, your reversed string should not contain leading or trailing spaces).
 
