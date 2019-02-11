@@ -490,5 +490,29 @@ Given an input string, reverse the string word by word (Input string may contain
 
 **Link:** https://leetcode.com/problems/reverse-words-in-a-string/
 
+## Day 41
+
+Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 328
+
+**Link:** https://leetcode.com/problems/odd-even-linked-list/
+
+## Day 42
+
+Given a binary array, find the maximum number of consecutive 1s in this array.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 485
+
+**Link:** https://leetcode.com/problems/max-consecutive-ones/
+
 
 
