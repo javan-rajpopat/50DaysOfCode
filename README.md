@@ -526,5 +526,18 @@ Given an array A of integers, return the length of the longest mountain.
 
 **Link:** https://leetcode.com/problems/longest-mountain-in-array/
 
+## Day 44
+
+Given an array A of integers, for each integer A[i] we may choose any x with -K <= x <= K, and add x to A[i]. After this process, we have some array B.vReturn the smallest possible difference between the maximum value of B and the minimum value of B.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 908
+
+**Link:** https://leetcode.com/problems/smallest-range-i/
+
+
 
 
