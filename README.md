@@ -514,5 +514,17 @@ Given a binary array, find the maximum number of consecutive 1s in this array.
 
 **Link:** https://leetcode.com/problems/max-consecutive-ones/
 
+## Day 43
+
+Given an array A of integers, return the length of the longest mountain. 
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 845
+
+**Link:** https://leetcode.com/problems/longest-mountain-in-array/
+
 
 
