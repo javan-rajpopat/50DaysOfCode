@@ -538,6 +538,18 @@ Given an array A of integers, for each integer A[i] we may choose any x with -K 
 
 **Link:** https://leetcode.com/problems/smallest-range-i/
 
+## Day 45
+
+Given a List of words, return the words that can be typed using letters of alphabet on only one row's of American keyboard like the image below.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 500
+
+**Link:** https://leetcode.com/problems/keyboard-row/
+
 
 
 
