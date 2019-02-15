@@ -550,6 +550,18 @@ Given a List of words, return the words that can be typed using letters of alpha
 
 **Link:** https://leetcode.com/problems/keyboard-row/
 
+## Day 46
+
+Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
+
+**From:** LeetCode
+
+**Difficulty:** Medium
+
+**Problem Number:** 338
+
+**Link:**https://leetcode.com/problems/counting-bits/
+
 
 
 
