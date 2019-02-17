@@ -560,7 +560,19 @@ Given a non negative integer number num. For every numbers i in the range 0 ≤ 
 
 **Problem Number:** 338
 
-**Link:**https://leetcode.com/problems/counting-bits/
+**Link:** https://leetcode.com/problems/counting-bits/
+
+## Day 47
+
+Write a program that outputs the string representation of numbers from 1 to n. But for multiples of three it should output “Fizz” instead of the number and for the multiples of five output “Buzz”. For numbers which are multiples of both three and five output “FizzBuzz”.
+
+**From:** LeetCode
+
+**Difficulty:** Easy
+
+**Problem Number:** 412
+
+**Link:** https://leetcode.com/problems/fizz-buzz/
 
 
 
