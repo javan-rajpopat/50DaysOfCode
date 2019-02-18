@@ -8,8 +8,6 @@ On 1st January, 2019, I start 50 Days Of Code challenge. During the course of th
 
 Given a string, find the length of the longest substring without repeating characters.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 3
@@ -19,8 +17,6 @@ Given a string, find the length of the longest substring without repeating chara
 ## Day 2
 
 Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target.
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -32,8 +28,6 @@ Given an array nums of n integers and an integer target, find three integers in 
 
 Now, given a list of words, each word can be written as a concatenation of the Morse code of each letter. Return the number of different transformations among all words we have.
 
-**From:** LeetCode
-
 **Difficulty:** Easy
 
 **Problem Number:** 804
@@ -43,8 +37,6 @@ Now, given a list of words, each word can be written as a concatenation of the M
 ## Day 4
 
 In a given integer array nums, there is always exactly one largest element.Find whether the largest element in the array is at least twice as much as every other number in the array. If it is, return the index of the largest element, otherwise return -1.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -56,8 +48,6 @@ In a given integer array nums, there is always exactly one largest element.Find 
 
 Given a non-empty integer array, find the minimum number of moves required to make all array elements equal, where a move is incrementing a selected element by 1 or decrementing a selected element by 1. You may assume the array's length is at most 10,000.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 462
@@ -68,8 +58,6 @@ Given a non-empty integer array, find the minimum number of moves required to ma
 
 Given a sorted array nums, remove the duplicates in-place such that duplicates appeared at most twice and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 80
@@ -79,8 +67,6 @@ Given a sorted array nums, remove the duplicates in-place such that duplicates a
 ## Day 7
 
 Given a string S that only contains "I" (increase) or "D" (decrease), let N = S.length. Return any permutation A of [0, 1, ..., N] such that for all i = 0, ..., N-1, such that, if S[i] == "I", then A[i] < A[i+1] and if S[i] == "D", then A[i] > A[i+1].
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -94,8 +80,6 @@ In a 2 dimensional array grid, each value grid[i][j] represents the height of a 
 
 At the end, the "skyline" when viewed from all four directions of the grid, i.e. top, bottom, left, and right, must be the same as the skyline of the original grid. A city's skyline is the outer contour of the rectangles formed by all the buildings when viewed from a distance. See the following example. What is the maximum total sum that the height of the buildings can be increased?
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 807
@@ -105,8 +89,6 @@ At the end, the "skyline" when viewed from all four directions of the grid, i.e.
 ## Day 9
 
 You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -118,8 +100,6 @@ You're given strings J representing the types of stones that are jewels, and S r
 
 Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 938
@@ -129,8 +109,6 @@ Given the root node of a binary search tree, return the sum of values of all nod
 ## Day 11
 
 Given two strings representing two complex numbers. You need to return a string representing their multiplication.
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -142,8 +120,6 @@ Given two strings representing two complex numbers. You need to return a string 
 
 In a array A of size 2N, there are N+1 unique elements, and exactly one of these elements is repeated N times. Return the element repeated N times.
 
-**From:** LeetCode
-
 **Difficulty:** Easy
 
 **Problem Number:** 961
@@ -153,8 +129,6 @@ In a array A of size 2N, there are N+1 unique elements, and exactly one of these
 ## Day 13
 
 The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence. Given N, calculate F(N).
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -166,8 +140,6 @@ The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonac
 
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 2
@@ -177,8 +149,6 @@ You are given two non-empty linked lists representing two non-negative integers.
 ## Day 15
 
 S and T are strings composed of lowercase letters. In S, no letter occurs more than once.S was sorted in some custom order previously. We want to permute the characters of T so that they match the order that S was sorted. More specifically, if x occurs before y in S, then x should occur before y in the returned string.
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -190,8 +160,6 @@ S and T are strings composed of lowercase letters. In S, no letter occurs more t
 
 Given a linked list, swap every two adjacent nodes and return its head.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 24
@@ -201,8 +169,6 @@ Given a linked list, swap every two adjacent nodes and return its head.
 ## Day 17
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length. Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -214,8 +180,6 @@ Given a sorted array nums, remove the duplicates in-place such that each element
 
 Given a linked list, remove the n-th node from the end of list and return its head.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 19
@@ -225,8 +189,6 @@ Given a linked list, remove the n-th node from the end of list and return its he
 ## Day 19
 
 Implement pow(x, n), which calculates x raised to the power n (x^n).
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -238,8 +200,6 @@ Implement pow(x, n), which calculates x raised to the power n (x^n).
 
 Determine if a 9x9 Sudoku board is valid. A Sudoku board (partially filled) could be valid but is not necessarily solvable.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 36
@@ -249,8 +209,6 @@ Determine if a 9x9 Sudoku board is valid. A Sudoku board (partially filled) coul
 ## Day 21
 
 Given a 32-bit signed integer, reverse digits of an integer.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -262,8 +220,6 @@ Given a 32-bit signed integer, reverse digits of an integer.
 
 Given an unsorted integer array, find the smallest missing positive integer in O(n) time.
 
-**From:** LeetCode
-
 **Difficulty:** Hard
 
 **Problem Number:** 41
@@ -273,8 +229,6 @@ Given an unsorted integer array, find the smallest missing positive integer in O
 ## Day 23
 
 Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once. Find all the elements that appear twice in this array.
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -286,8 +240,6 @@ Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements 
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
-**From:** LeetCode
-
 **Difficulty:** Easy
 
 **Problem Number:** 1
@@ -297,8 +249,6 @@ Given an array of integers, return indices of the two numbers such that they add
 ## Day 25
 
 Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -310,8 +260,6 @@ Given a non-empty array of digits representing a non-negative integer, plus one 
 
 Given the coordinates of four points in 2D space, return whether the four points could construct a square.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 593
@@ -321,8 +269,6 @@ Given the coordinates of four points in 2D space, return whether the four points
 ## Day 27
 
 Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -334,8 +280,6 @@ Given two strings S and T, return if they are equal when both are typed into emp
 
 You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.
 
-**From:** LeetCode
-
 **Difficulty:** Easy
 
 **Problem Number:** 606
@@ -345,8 +289,6 @@ You need to construct a string consists of parenthesis and integers from a binar
 ## Day 29
 
 Given the root node of a binary search tree (BST) and a value to be inserted into the tree, insert the value into the BST. 
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -358,8 +300,6 @@ Given the root node of a binary search tree (BST) and a value to be inserted int
 
 Given a string S and a character C, return an array of integers representing the shortest distance from the character C in the string.
 
-**From:** LeetCode
-
 **Difficulty:** Easy
 
 **Problem Number:** 821
@@ -369,8 +309,6 @@ Given a string S and a character C, return an array of integers representing the
 ## Day 31
 
 We have a string S of lowercase letters, and an integer array shifts. Call the shift of a letter, the next letter in the alphabet, (wrapping around so that 'z' becomes 'a'). Now for each shifts[i] = x, we want to shift the first i+1 letters of S, x times.
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -384,8 +322,6 @@ Design a data structure that supports the following two operations:
   1) void addNum(int num) - Add a integer number from the data stream to the data structure.
   2) double findMedian() - Return the median of all elements so far.
 
-**From:** LeetCode
-
 **Difficulty:** Hard
 
 **Problem Number:** 295
@@ -398,8 +334,6 @@ Write an efficient algorithm that searches for a value in an m x n matrix. This 
   1) Integers in each row are sorted in ascending from left to right.
   2) Integers in each column are sorted in ascending from top to bottom.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 240
@@ -409,8 +343,6 @@ Write an efficient algorithm that searches for a value in an m x n matrix. This 
 ## Day 34
 
 Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. You are given a target value to search. If found in the array return its index, otherwise return -1, in O(log n).
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -422,8 +354,6 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 
 Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.You are given a target value to search. If found in the array return true, otherwise return false, in O(log n).
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 81
@@ -433,8 +363,6 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 ## Day 36
 
 Given a non-negative index k, return the kth index row of the Pascal's triangle.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -446,8 +374,6 @@ Given a non-negative index k, return the kth index row of the Pascal's triangle.
 
 Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
 
-**From:** LeetCode
-
 **Difficulty:** Easy
 
 **Problem Number:** 118
@@ -457,8 +383,6 @@ Given a non-negative integer numRows, generate the first numRows of Pascal's tri
 ## Day 38
 
 Given an integer, write a function to determine if it is a power of two.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -470,8 +394,6 @@ Given an integer, write a function to determine if it is a power of two.
 
 Given a singly linked list L: L0→L1→…→Ln-1→Ln,reorder it to: L0→Ln→L1→Ln-1→L2→Ln-2→…
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 143
@@ -481,8 +403,6 @@ Given a singly linked list L: L0→L1→…→Ln-1→Ln,reorder it to: L0→Ln�
 ## Day 40
 
 Given an input string, reverse the string word by word (Input string may contain leading or trailing spaces. However, your reversed string should not contain leading or trailing spaces).
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -494,8 +414,6 @@ Given an input string, reverse the string word by word (Input string may contain
 
 Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 328
@@ -505,8 +423,6 @@ Given a singly linked list, group all odd nodes together followed by the even no
 ## Day 42
 
 Given a binary array, find the maximum number of consecutive 1s in this array.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -518,8 +434,6 @@ Given a binary array, find the maximum number of consecutive 1s in this array.
 
 Given an array A of integers, return the length of the longest mountain. 
 
-**From:** LeetCode
-
 **Difficulty:** Medium
 
 **Problem Number:** 845
@@ -529,8 +443,6 @@ Given an array A of integers, return the length of the longest mountain.
 ## Day 44
 
 Given an array A of integers, for each integer A[i] we may choose any x with -K <= x <= K, and add x to A[i]. After this process, we have some array B.vReturn the smallest possible difference between the maximum value of B and the minimum value of B.
-
-**From:** LeetCode
 
 **Difficulty:** Easy
 
@@ -542,8 +454,6 @@ Given an array A of integers, for each integer A[i] we may choose any x with -K 
 
 Given a List of words, return the words that can be typed using letters of alphabet on only one row's of American keyboard like the image below.
 
-**From:** LeetCode
-
 **Difficulty:** Easy
 
 **Problem Number:** 500
@@ -553,8 +463,6 @@ Given a List of words, return the words that can be typed using letters of alpha
 ## Day 46
 
 Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
-
-**From:** LeetCode
 
 **Difficulty:** Medium
 
@@ -566,13 +474,41 @@ Given a non negative integer number num. For every numbers i in the range 0 ≤ 
 
 Write a program that outputs the string representation of numbers from 1 to n. But for multiples of three it should output “Fizz” instead of the number and for the multiples of five output “Buzz”. For numbers which are multiples of both three and five output “FizzBuzz”.
 
-**From:** LeetCode
-
 **Difficulty:** Easy
 
 **Problem Number:** 412
 
 **Link:** https://leetcode.com/problems/fizz-buzz/
+
+## Day 48
+
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+
+**Difficulty:** Hard
+
+**Problem Number:** 42
+
+**Link:** https://leetcode.com/problems/trapping-rain-water/
+
+## Day 49
+
+Implement a trie with insert, search, and startsWith methods.
+
+**Difficulty:** Medium
+
+**Problem Number:** 208
+
+**Link:** https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## Day 50
+
+Given a non-empty, singly linked list with head node head, return a middle node of linked list. If there are two middle nodes, return the second middle node.
+
+**Difficulty:** Easy
+
+**Problem Number:** 876
+
+**Link:** https://leetcode.com/problems/middle-of-the-linked-list/
 
 
 
