@@ -6,11 +6,14 @@ On 1st January, 2019, I started 50 Days Of Code challenge. During the course of 
 
 During the last 50 days I covered 10+ topics from different difficulty levels and achieved 100 percentile time complexity 35 times. I have created few visual statistics to give viewers a better and clear idea.
 
-**Percentil of Time Complexity
+**Percentil of Time Complexity**
 
 C++ (Blue)
+
 Javan (Green)
+
 Python (Red)
+
 
 ![](./images/ezgif.com-video-to-gif.gif)
 
