@@ -15,7 +15,7 @@ Javan (Green)
 Python (Red)
 
 
-![](./images/ezgif.com-video-to-gif.gif)
+   ![](./images/ezgif.com-video-to-gif.gif)
 
 ![](./images/Topics_Covered.png)
 
