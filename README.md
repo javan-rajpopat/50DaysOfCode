@@ -1,6 +1,16 @@
 # 50DaysOfCode
 
-On 1st January, 2019, I start 50 Days Of Code challenge. During the course of this challenge, I pledge to code for the next 50 days in Python, Java and C++. The problems will be selected from LeetCode and the code will be pushed iff all the test cases are successful. I expect this challenge to enhance my skills and keep in touch with few of the most practiced languages. 
+On 1st January, 2019, I started 50 Days Of Code challenge. During the course of this challenge, I pledged to code for the next 50 days in Python, Java and C++. The problems were selected from LeetCode and the code was pushed iff all the test cases are successful. I completed this challenge to enhance my skills and keep in touch with few of the most practiced languages. 
+
+## Results 
+
+During the last 50 days I covered 10+ topics from different difficulty levels and achieved 100 percentile time complexity 35 times. I have created few visual statistics to give viewers a better and clear idea.
+
+![](./images/Screen Shot 2019-02-22 at 7.14.01 PM.png)
+
+![](./images/Screen Shot 2019-02-22 at 7.15.21 PM.png)
+
+![](./images/ezgif.com-video-to-gif.gif)
 
 *For any suggestions, feel free to mail me on jkrajpop@ncsu.edu*
 
