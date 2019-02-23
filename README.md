@@ -8,7 +8,7 @@ During the last 50 days I covered 10+ topics from different difficulty levels an
 
 ![](./images/Topics_Covered.png)
 
-![](./images/Difficulty Level.png)
+![](./images/Difficulty_Level.png)
 
 ![](./images/ezgif.com-video-to-gif.gif)
 
